@@ -1,0 +1,1530 @@
+{
+  "id": "0e795202-8c8d-45fd-89ae-0db75e25e1b1",
+  "revision": 0,
+  "last_node_id": 165,
+  "last_link_id": 337,
+  "nodes": [
+    {
+      "id": 121,
+      "type": "Text Prompt (JPS)",
+      "pos": [
+        -2480.193603515625,
+        747.9181518554688
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": []
+        }
+      ],
+      "title": "Positive Prompt",
+      "properties": {
+        "cnr_id": "ComfyUI_JPS-Nodes",
+        "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+        "Node name for S&R": "Text Prompt (JPS)",
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "version": "7.1",
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": [
+        "amateur photo. indoor scene, raw unedited amateurish candid shot of Sydney01, soaking in bubble bath, modern bathroom, ceramic tiled walls, lighting from tea candles, fairy lights, relaxed expression, wavy shoulder-length auburn hair, subtle makeup, smoking cigarette. on foreground is a standing light cyan conditioner bottle with the text \"Silky Smooth\", Bottle of vodka, soft focus, intimate setting, dim lighting"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 149,
+      "type": "Text Prompt (JPS)",
+      "pos": [
+        -2479.735595703125,
+        1009.0478515625
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": []
+        }
+      ],
+      "title": "Positive Prompt",
+      "properties": {
+        "cnr_id": "ComfyUI_JPS-Nodes",
+        "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+        "Node name for S&R": "Text Prompt (JPS)",
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "version": "7.1",
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": [
+        "amateur photo. indoor scene, raw unedited amateurish mirror selfie of Min01, captured from a low angle as she crouches seductively on her bedroom floor leaning in towards the viewer, she is topless and wearing a high-waisted red lace panties, she is topless and her medium sized perky breasts with brown areoles are shown. She holds her iPhone with a black case, the case has a print of an otter on a skateboard, positioned at a strategic downward angle that captures her crouched position in the mirror's reflection, her dark hair with vibrant green streaks falling forward as she gazes at the phone screen with a sultry expression. In the background, the wall decorated with a small shelf that has a few potted plants and a beige colored desk with a gaming PC And a red and black gaming chair, and creates an intimate, vulnerable angle in her alternative-themed bedroom with soft ambient lighting from a string of fairy lights. Visible lens distortion from the mirror angle, natural skin texture, and the authentic graininess create a spontaneous moment that feels completely unposed and intimate."
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 132,
+      "type": "Text Prompt (JPS)",
+      "pos": [
+        -2910.9482421875,
+        741.6926879882812
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": []
+        }
+      ],
+      "title": "Positive Prompt",
+      "properties": {
+        "cnr_id": "ComfyUI_JPS-Nodes",
+        "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+        "Node name for S&R": "Text Prompt (JPS)",
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "version": "7.1",
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": [
+        "amateur photo. Digital photograph, high resolution, ambient lighting, slightly grainy texture, indoor bedroom setting at night, Sydney01 posing, feet in the air, barefoot, lying on the stomach, wearing dark burgundy lipstick, dramatic eye makeup with dark eyeshadow and mascara, black nail polish, sheer black lace or mesh long-sleeved top, black ring on right hand, reclining on bed with dark red satin sheets, holding black corded telephone handset to ear with right hand, left hand resting near black push-button telephone base, large glass bowl filled with popcorn on left side of bed, horror movie magazines or comic books visible on bed, contemplative or concerned expression, gaze directed upward to her left, figure wearing white Ghostface mask from Scream franchise standing in doorway in background and holding machete, multiple movie posters on walls including crucifixion scene and other horror film imagery, dark wooden furniture with bottles visible on right side shelf"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 127,
+      "type": "Text Prompt (JPS)",
+      "pos": [
+        -2919.413330078125,
+        1002.2696533203125
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": []
+        }
+      ],
+      "title": "Positive Prompt",
+      "properties": {
+        "cnr_id": "ComfyUI_JPS-Nodes",
+        "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+        "Node name for S&R": "Text Prompt (JPS)",
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "version": "7.1",
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": [
+        "amateur photo. indoor scene, raw unedited amateurish dimly Top down shot of Becca01 laying on a bed with messy white sheets, her head is tilted to the side and her arm are lifted above her head to reveal her shaved under arms, she's captured from an awkward dutch high angle that focuses on her perfectly shaped tiny breasts and small erect nipples, she looks directly at the viewer with a playful smile with her slightly uneven teeth showing, she has a hollow navel and a flat stomach and a hint of her shaven pubic area can be shown at the edge of the frame, her brown hair naturally falls on her shuolders, she has a smooth skin texture and a choker necklace, uneven lighting and soft shadows from artifical lighting from a nearby lamp"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 155,
+      "type": "Text Prompt (JPS)",
+      "pos": [
+        -2950.800048828125,
+        1252.287109375
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": []
+        }
+      ],
+      "title": "Positive Prompt",
+      "properties": {
+        "cnr_id": "ComfyUI_JPS-Nodes",
+        "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+        "Node name for S&R": "Text Prompt (JPS)",
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "version": "7.1",
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": [
+        "amateur photo. indoor scene, raw unedited amateurish dimly Top down shot of Greta01 laying on a bed with messy white sheets, her head is tilted to the side and her arm are lifted above her head to reveal her shaved arm puts, she's captured from an awkward dutch high angle that focuses on her perfectly shaped breasts and small erect nipples, she looks directly at the viewer with a playful smile with her slightly uneven teeth showing, she has a hollow navel and a flat stomach, her legs are slighly spread and her tights are chubby, a hint of her shaven pubic area can be shown at the edge of the frame, her raven black messy  hair naturally falls on her shuolders, she has a smooth skin texture and a choker necklace, uneven lighting and soft shadows from artifical lighting from a nearby lamp"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 108,
+      "type": "Text Prompt (JPS)",
+      "pos": [
+        -2899.290283203125,
+        481.6962890625
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": []
+        }
+      ],
+      "title": "Positive Prompt",
+      "properties": {
+        "cnr_id": "ComfyUI_JPS-Nodes",
+        "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+        "Node name for S&R": "Text Prompt (JPS)",
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "version": "7.1",
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": [
+        "A top down selfie with both arms in the frame focusing on Sydney01 face, chest, abdomen and perfectly shaped breasts with ghost pale nipples, her neck, chest, navel and stomach are covered in cum, her face is shown and she is smiling with perfect teeth and her light blue eyes are glistening with joy, the scene takes place in a low lit bedroom as Sydney01 lays on a bed with white sheets that looks slightly messy, illuminated by harsh flash lighting that casts strong shadows behind her and shows her body in great detail, an on screen caption writes \"I'm so sticky lol\" her skin has natural imperfections and blemishes"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 150,
+      "type": "Text Prompt (JPS)",
+      "pos": [
+        -2480.022705078125,
+        1258.009033203125
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": []
+        }
+      ],
+      "title": "Positive Prompt",
+      "properties": {
+        "cnr_id": "ComfyUI_JPS-Nodes",
+        "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+        "Node name for S&R": "Text Prompt (JPS)",
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "version": "7.1",
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": [
+        "amateur photo. indoor scene, raw unedited amateurish bathroom mirror selfie of Min01, captured from a strategic low angle as she stands topless wearing only black lace lingerie bottoms. She's leaning against the clean white countertop with a confident, playful smile while looking directly into the camera with smoldering eyes, her dark hair with vibrant green streaks falling forward as she gazes at the phone screen with a sultry expression. She holds her smartphone at an angle that emphasizes her bare breasts and the delicate lace lingerie against her pale skin, with steam from a recent shower creating a soft haze around her body. The bright lighting from overhead fixtures creates clear, well-lit illumination that showcases her smooth skin in the minimalistic bathroom environment with plain white walls and simple fixtures in the background. Visible digital noise from the smartphone camera, natural skin texture, slight lens distortion from the close mirror angle, and the authentic graininess create a spontaneous, intimate moment that captures her confident energy in a clean, minimal bathroom setting."
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 39,
+      "type": "VAELoader",
+      "pos": [
+        -1029.7576904296875,
+        6.577899932861328
+      ],
+      "size": [
+        288.9561462402344,
+        58.316253662109375
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 7,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "slot_index": 0,
+          "links": [
+            76
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.49",
+        "Node name for S&R": "VAELoader",
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": [
+        "qwen_image_vae.safetensors"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 99,
+      "type": "CLIPLoader",
+      "pos": [
+        -1034.221435546875,
+        -176.24107360839844
+      ],
+      "size": [
+        297.8836669921875,
+        115.81897735595703
+      ],
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            215,
+            216
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.52",
+        "Node name for S&R": "CLIPLoader",
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {
+            "clip_name": true,
+            "type": true,
+            "device": true
+          }
+        }
+      },
+      "widgets_values": [
+        "qwen_2.5_vl_7b.safetensors",
+        "qwen_image",
+        "default"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 96,
+      "type": "UNETLoader",
+      "pos": [
+        -1036.6817626953125,
+        -325.2410888671875
+      ],
+      "size": [
+        302.80438232421875,
+        82
+      ],
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            217
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.52",
+        "Node name for S&R": "UNETLoader",
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {
+            "unet_name": true,
+            "weight_dtype": true
+          }
+        }
+      },
+      "widgets_values": [
+        "qwen_image_bf16.safetensors",
+        "default"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 120,
+      "type": "ModelPassThrough",
+      "pos": [
+        -517.0682983398438,
+        97.25811767578125
+      ],
+      "size": [
+        140,
+        26
+      ],
+      "flags": {},
+      "order": 20,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "shape": 7,
+          "type": "MODEL",
+          "link": 319
+        }
+      ],
+      "outputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "links": [
+            252
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-kjnodes",
+        "ver": "9d7af919b91838fb22e31ad0107a6ddcf8bd7f3f",
+        "Node name for S&R": "ModelPassThrough",
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "version": "7.1",
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 164,
+      "type": "CR Prompt List",
+      "pos": [
+        -2344.529541015625,
+        -64.14628601074219
+      ],
+      "size": [
+        402.28857421875,
+        668.6405639648438
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 10,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "prompt",
+          "shape": 6,
+          "type": "STRING",
+          "links": []
+        },
+        {
+          "name": "body_text",
+          "shape": 6,
+          "type": "STRING",
+          "links": null
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "ComfyUI_Comfyroll_CustomNodes",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Prompt List",
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "version": "7.1",
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": [
+        "",
+        "Photorealistic over-the-shoulder selfie with slight lens distortion and visible chromatic aberration, showing Sydney01 as a fit woman with long flowing light brown hair draped elegantly over one shoulder, large sized breasts subtly accentuated in profile, and piercing light blue eyes glancing back coyly, clad in a skimpy white lace thong bikini with intricate floral patterns and ultra-thin side ties for minimal coverage, posing with a teasing backward glance and one hand on her hip, hint of an American house background with a blurred beige exterior wall and a glimpse of a red brick chimney, soft golden hour sunlight casting a warm glow on her skin.\nPhotorealistic dynamic candid shot with slight lens distortion and visible chromatic aberration, showing Sydney01 as a fit woman with long flowing light brown hair swirling mid-motion, large sized breasts bouncing slightly with energy, and bright light blue eyes sparkling with joy, twirling playfully in a revealing red leopard print micro bikini with lace-edged triangles and slender string bottoms offering barely-there coverage, captured mid-spin with arms outstretched and a radiant smile, poolside setting with a blurred edge of sparkling blue water and a faint pool float in the distance, vibrant midday sunlight enhancing the vivid patterns.\nPhotorealistic seated straight-on shot with slight lens distortion and visible chromatic aberration, showing Sydney01 as a fit woman with long flowing light brown hair cascading down her back, large sized breasts prominently framed by the outfit, and captivating light blue eyes locking onto the viewer intently, sitting cross-legged in an ultra-skimpy black lace bralette and thong set with exotic zebra stripe accents, sheer mesh panels, and ribbon ties, leaning forward slightly with a seductive pout, balcony setting with a blurred railing and a hint of a city skyline in the background, diffused afternoon light creating subtle highlights and shadows.\nPhotorealistic low-angle upward shot with slight lens distortion and visible chromatic aberration, showing Sydney01 as a fit woman with long flowing light brown hair fanned out dramatically, large sized breasts emphasized from the perspective, and enigmatic light blue eyes gazing downward mysteriously, reclining on her elbows in a provocative pink tiger print sling bikini with delicate lace trims and minimal slingshot strings, arching her back slightly with a sultry expression, rooftop setting with a blurred view of a tiled roof edge and faint urban horizon, warm sunset light bathing her in an orange hue.",
+        "",
+        0,
+        1000
+      ]
+    },
+    {
+      "id": 103,
+      "type": "LoraLoaderModelOnly",
+      "pos": [
+        -628.7059326171875,
+        -51.74188232421875
+      ],
+      "size": [
+        363.27520751953125,
+        82
+      ],
+      "flags": {},
+      "order": 19,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 223
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            319
+          ]
+        }
+      ],
+      "title": "LoRA 2",
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.49",
+        "Node name for S&R": "LoraLoaderModelOnly",
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": [
+        "qwen_snofs.safetensors",
+        0.85
+      ]
+    },
+    {
+      "id": 83,
+      "type": "LoraLoaderModelOnly",
+      "pos": [
+        -633.3905029296875,
+        -200.74188232421875
+      ],
+      "size": [
+        372.6443786621094,
+        82
+      ],
+      "flags": {},
+      "order": 18,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 218
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            223
+          ]
+        }
+      ],
+      "title": "LoRA 1",
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.49",
+        "Node name for S&R": "LoraLoaderModelOnly",
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": [
+        "HearmemanAI_V4_Rank128_BreastsLoRA_Epoch80.safetensors",
+        0.8
+      ]
+    },
+    {
+      "id": 6,
+      "type": "CLIPTextEncode",
+      "pos": [
+        -114.7455825805664,
+        -324.28326416015625
+      ],
+      "size": [
+        552.8490600585938,
+        327.5576477050781
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 17,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 215
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "widget": {
+            "name": "text"
+          },
+          "link": 336
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "slot_index": 0,
+          "links": [
+            148
+          ]
+        }
+      ],
+      "title": "CLIP Text Encode (Positive Prompt)",
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.49",
+        "Node name for S&R": "CLIPTextEncode",
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": [
+        "London 01 (21 years old), confident and alluring, with voluminous, tightly defined blonde and brown curly hair with bangs, tanned healthy skin with realistic pores/texture, wearing a black fishnet bodysuit and a silver body chain. Messy hotel room bathroom, harsh direct flash illuminating her with deep shadows. Close-up mirror selfie, London 01 leaning into the mirror, holding the phone slightly high. Medium-quality smartphone photo, social media portrait, low-resolution, visible sensor noise/grain, mild JPEG compression artifacts, camera lens smudge, slightly blurry from slight camera movement, high contrast unfiltered look."
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 7,
+      "type": "CLIPTextEncode",
+      "pos": [
+        -116.28201293945312,
+        -112.46755981445312
+      ],
+      "size": [
+        522.5441284179688,
+        165.83148193359375
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 16,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 216
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "widget": {
+            "name": "text"
+          },
+          "link": 229
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "slot_index": 0,
+          "links": [
+            149
+          ]
+        }
+      ],
+      "title": "CLIP Text Encode (Negative Prompt)",
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.49",
+        "Node name for S&R": "CLIPTextEncode",
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": [
+        "cinematic, glossy finish, shallow depth of field, cinematic bokeh, uncanny anatomy, frame-perfect symmetry, blurred background, fat, low resolution, big ears, vertical lines, lines glitch"
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 109,
+      "type": "Text Prompt (JPS)",
+      "pos": [
+        -204.2122344970703,
+        -157.60598754882812
+      ],
+      "size": [
+        404.6051025390625,
+        108.1858139038086
+      ],
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            229
+          ]
+        }
+      ],
+      "title": "Negative Prompt",
+      "properties": {
+        "cnr_id": "ComfyUI_JPS-Nodes",
+        "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+        "Node name for S&R": "Text Prompt (JPS)",
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "version": "7.1",
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": [
+        "cinematic, glossy finish, shallow depth of field, cinematic bokeh, uncanny anatomy, frame-perfect symmetry, blurred background, fat, low resolution, big ears, vertical lines, lines glitch"
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 95,
+      "type": "EmptyLatentImage",
+      "pos": [
+        -199.81356811523438,
+        0.2591266334056854
+      ],
+      "size": [
+        398.8357849121094,
+        106
+      ],
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            222
+          ]
+        }
+      ],
+      "title": "Image Resolution",
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.49",
+        "Node name for S&R": "EmptyLatentImage",
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {
+            "width": true,
+            "height": true,
+            "batch_size": true
+          }
+        },
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        1296,
+        1776,
+        1
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 66,
+      "type": "ModelSamplingAuraFlow",
+      "pos": [
+        449.0407409667969,
+        -672.3615112304688
+      ],
+      "size": [
+        270,
+        58
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 21,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 252
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            189
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.49",
+        "Node name for S&R": "ModelSamplingAuraFlow",
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": [
+        1.7
+      ]
+    },
+    {
+      "id": 126,
+      "type": "ClownOptions_SwapSampler_Beta",
+      "pos": [
+        473.9403381347656,
+        -556.2119140625
+      ],
+      "size": [
+        281.9820251464844,
+        130.32339477539062
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 13,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "options",
+          "shape": 7,
+          "type": "OPTIONS",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "options",
+          "type": "OPTIONS",
+          "links": [
+            258
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "RES4LYF",
+        "ver": "7750bf7800b6ad9d670308a09989fc0c04c40cec",
+        "Node name for S&R": "ClownOptions_SwapSampler_Beta",
+        "ue_properties": {
+          "widget_ue_connectable": {
+            "sampler_name": true,
+            "swap_below_err": true,
+            "swap_at_step": true,
+            "log_err_to_console": true
+          },
+          "version": "7.1",
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": [
+        "exponential/res_4s_krogstad",
+        0,
+        18,
+        false
+      ]
+    },
+    {
+      "id": 75,
+      "type": "ClownsharKSampler_Beta",
+      "pos": [
+        374.22027587890625,
+        -505.6328125
+      ],
+      "size": [
+        442.18280029296875,
+        449.7906188964844
+      ],
+      "flags": {},
+      "order": 22,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "shape": 7,
+          "type": "MODEL",
+          "link": 189
+        },
+        {
+          "name": "positive",
+          "shape": 7,
+          "type": "CONDITIONING",
+          "link": 148
+        },
+        {
+          "name": "negative",
+          "shape": 7,
+          "type": "CONDITIONING",
+          "link": 149
+        },
+        {
+          "name": "latent_image",
+          "shape": 7,
+          "type": "LATENT",
+          "link": 222
+        },
+        {
+          "name": "sigmas",
+          "shape": 7,
+          "type": "SIGMAS",
+          "link": null
+        },
+        {
+          "name": "guides",
+          "shape": 7,
+          "type": "GUIDES",
+          "link": null
+        },
+        {
+          "name": "options",
+          "shape": 7,
+          "type": "OPTIONS",
+          "link": 258
+        },
+        {
+          "name": "options 2",
+          "type": "OPTIONS",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "type": "LATENT",
+          "links": [
+            190
+          ]
+        },
+        {
+          "name": "denoised",
+          "type": "LATENT",
+          "links": []
+        },
+        {
+          "name": "options",
+          "type": "OPTIONS",
+          "links": []
+        }
+      ],
+      "properties": {
+        "cnr_id": "RES4LYF",
+        "ver": "2f84be17fc8d0096ea6b06e29a3133d57c3f65ca",
+        "Node name for S&R": "ClownsharKSampler_Beta",
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": [
+        0.12,
+        "multistep/deis_3m",
+        "kl_optimal",
+        24,
+        -1,
+        1,
+        2.4,
+        635137038920786,
+        "randomize",
+        "standard",
+        true
+      ],
+      "color": "#2a363b",
+      "bgcolor": "#3f5159"
+    },
+    {
+      "id": 8,
+      "type": "VAEDecode",
+      "pos": [
+        761.5155639648438,
+        -570.8323974609375
+      ],
+      "size": [
+        210,
+        46
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 23,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 190
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 76
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "slot_index": 0,
+          "links": [
+            254
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.49",
+        "Node name for S&R": "VAEDecode",
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {}
+        }
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 122,
+      "type": "Film Grain",
+      "pos": [
+        1018.958984375,
+        -676.1248168945312
+      ],
+      "size": [
+        270,
+        154
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 24,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 254
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            321,
+            337
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "RES4LYF",
+        "ver": "7750bf7800b6ad9d670308a09989fc0c04c40cec",
+        "Node name for S&R": "Film Grain",
+        "ue_properties": {
+          "widget_ue_connectable": {
+            "density": true,
+            "intensity": true,
+            "highlights": true,
+            "supersample_factor": true,
+            "repeats": true
+          },
+          "version": "7.1",
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": [
+        1,
+        0.04,
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "id": 154,
+      "type": "PreviewImage",
+      "pos": [
+        1093.844482421875,
+        -569.404541015625
+      ],
+      "size": [
+        458.1016540527344,
+        916.019775390625
+      ],
+      "flags": {},
+      "order": 25,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 321
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.60",
+        "Node name for S&R": "PreviewImage",
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "version": "7.1",
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 165,
+      "type": "Fast Bypasser (rgthree)",
+      "pos": [
+        1283.2039794921875,
+        -690.2684936523438
+      ],
+      "size": [
+        343.53851318359375,
+        63.39334487915039
+      ],
+      "flags": {},
+      "order": 26,
+      "mode": 0,
+      "inputs": [
+        {
+          "dir": 3,
+          "label": " ",
+          "name": "Film Grain",
+          "type": "*",
+          "link": 337
+        },
+        {
+          "dir": 3,
+          "label": " ",
+          "name": "",
+          "type": "*",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "dir": 4,
+          "label": " ",
+          "name": "OPT_CONNECTION",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "title": "Disable Film Grain",
+      "properties": {
+        "toggleRestriction": "default",
+        "collapse_connections": true,
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "version": "7.1",
+          "input_ue_unconnectable": {}
+        }
+      },
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 101,
+      "type": "LoraLoaderModelOnly",
+      "pos": [
+        -635.7255859375,
+        -351.1826171875
+      ],
+      "size": [
+        377.3145751953125,
+        83.44073486328125
+      ],
+      "flags": {},
+      "order": 15,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 217
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            218
+          ]
+        }
+      ],
+      "title": "Character LoRA",
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.52",
+        "Node name for S&R": "LoraLoaderModelOnly",
+        "ue_properties": {
+          "version": "7.0.1",
+          "widget_ue_connectable": {
+            "lora_name": true,
+            "strength_model": true
+          }
+        }
+      },
+      "widgets_values": [
+        "Sydney01_epoch80.safetensors",
+        0.93
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 152,
+      "type": "Text Prompt (JPS)",
+      "pos": [
+        -203.84054565429688,
+        -359.0086669921875
+      ],
+      "size": [
+        400.1509094238281,
+        156.99903869628906
+      ],
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            336
+          ]
+        }
+      ],
+      "title": "Positive Prompt",
+      "properties": {
+        "cnr_id": "ComfyUI_JPS-Nodes",
+        "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+        "Node name for S&R": "Text Prompt (JPS)",
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "version": "7.1",
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": [
+        "A photorealistic three-quarter straight-on image with visible lens flare, chromatic aberration and high contrast of Sydney01 leaning against a balcony railing, wearing an olive green bikini with thin straps that emphasize her full chest and toned torso. She’s thoughtfully holding one finger to her lips, her Apple Watch catching the light as her long hair flows naturally in the breeze. The background shows palm trees and a clear blue sky slightly blurred, adding a tropical, luxurious vibe that feels candid and seductive."
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    }
+  ],
+  "links": [
+    [
+      76,
+      39,
+      0,
+      8,
+      1,
+      "VAE"
+    ],
+    [
+      148,
+      6,
+      0,
+      75,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      149,
+      7,
+      0,
+      75,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      189,
+      66,
+      0,
+      75,
+      0,
+      "MODEL"
+    ],
+    [
+      190,
+      75,
+      0,
+      8,
+      0,
+      "LATENT"
+    ],
+    [
+      215,
+      99,
+      0,
+      6,
+      0,
+      "CLIP"
+    ],
+    [
+      216,
+      99,
+      0,
+      7,
+      0,
+      "CLIP"
+    ],
+    [
+      217,
+      96,
+      0,
+      101,
+      0,
+      "MODEL"
+    ],
+    [
+      218,
+      101,
+      0,
+      83,
+      0,
+      "MODEL"
+    ],
+    [
+      222,
+      95,
+      0,
+      75,
+      3,
+      "LATENT"
+    ],
+    [
+      223,
+      83,
+      0,
+      103,
+      0,
+      "MODEL"
+    ],
+    [
+      229,
+      109,
+      0,
+      7,
+      1,
+      "STRING"
+    ],
+    [
+      252,
+      120,
+      0,
+      66,
+      0,
+      "MODEL"
+    ],
+    [
+      254,
+      8,
+      0,
+      122,
+      0,
+      "IMAGE"
+    ],
+    [
+      258,
+      126,
+      0,
+      75,
+      6,
+      "OPTIONS"
+    ],
+    [
+      319,
+      103,
+      0,
+      120,
+      0,
+      "MODEL"
+    ],
+    [
+      321,
+      122,
+      0,
+      154,
+      0,
+      "IMAGE"
+    ],
+    [
+      336,
+      152,
+      0,
+      6,
+      1,
+      "STRING"
+    ],
+    [
+      337,
+      122,
+      0,
+      165,
+      0,
+      "*"
+    ]
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "title": "Model Loaders",
+      "bounding": [
+        -1097.93017578125,
+        -448.1997985839844,
+        418.6479797363281,
+        575.1849365234375
+      ],
+      "color": "#b58b2a",
+      "font_size": 24,
+      "flags": {}
+    },
+    {
+      "id": 2,
+      "title": "LoRA Loaders",
+      "bounding": [
+        -656.5916748046875,
+        -444.35528564453125,
+        418.6479797363281,
+        575.1849365234375
+      ],
+      "color": "#b58b2a",
+      "font_size": 24,
+      "flags": {}
+    },
+    {
+      "id": 3,
+      "title": "Prompts & Resolution",
+      "bounding": [
+        -220.02935791015625,
+        -441.47296142578125,
+        450.7828063964844,
+        571.5791015625
+      ],
+      "color": "#b58b2a",
+      "font_size": 24,
+      "flags": {}
+    },
+    {
+      "id": 4,
+      "title": "LoRA Loaders",
+      "bounding": [
+        246.89768981933594,
+        -771.646484375,
+        703.97802734375,
+        1120.1124267578125
+      ],
+      "color": "#b58b2a",
+      "font_size": 24,
+      "flags": {}
+    },
+    {
+      "id": 5,
+      "title": "Final Image",
+      "bounding": [
+        976.89013671875,
+        -768.2709350585938,
+        703.97802734375,
+        1120.1124267578125
+      ],
+      "color": "#b58b2a",
+      "font_size": 24,
+      "flags": {}
+    }
+  ],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.5989500000000004,
+      "offset": [
+        1684.212484125156,
+        802.6095252613873
+      ]
+    },
+    "frontendVersion": "1.26.13",
+    "ue_links": [],
+    "links_added_by_ue": [],
+    "VHS_latentpreview": false,
+    "VHS_latentpreviewrate": 0,
+    "VHS_MetadataImage": true,
+    "VHS_KeepIntermediate": true
+  },
+  "version": 0.4
+}

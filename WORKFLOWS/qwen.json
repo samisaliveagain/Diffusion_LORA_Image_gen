@@ -1,0 +1,2299 @@
+{
+    "id": "0e795202-8c8d-45fd-89ae-0db75e25e1b1",
+    "revision": 0,
+    "last_node_id": 183,
+    "last_link_id": 357,
+    "nodes": [
+        {
+            "id": 121,
+            "type": "Text Prompt (JPS)",
+            "pos": [
+                -2480.193603515625,
+                747.9181518554688
+            ],
+            "size": [
+                400,
+                200
+            ],
+            "flags": {},
+            "order": 0,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "text"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "links": []
+                }
+            ],
+            "title": "Positive Prompt",
+            "properties": {
+                "cnr_id": "ComfyUI_JPS-Nodes",
+                "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+                "Node name for S&R": "Text Prompt (JPS)",
+                "ue_properties": {
+                    "widget_ue_connectable": {},
+                    "version": "7.1",
+                    "input_ue_unconnectable": {}
+                }
+            },
+            "widgets_values": [
+                "amateur photo. indoor scene, raw unedited amateurish candid shot of Sydney01, soaking in bubble bath, modern bathroom, ceramic tiled walls, lighting from tea candles, fairy lights, relaxed expression, wavy shoulder-length auburn hair, subtle makeup, smoking cigarette. on foreground is a standing light cyan conditioner bottle with the text \"Silky Smooth\", Bottle of vodka, soft focus, intimate setting, dim lighting"
+            ],
+            "color": "#232",
+            "bgcolor": "#353"
+        },
+        {
+            "id": 149,
+            "type": "Text Prompt (JPS)",
+            "pos": [
+                -2479.735595703125,
+                1009.0478515625
+            ],
+            "size": [
+                400,
+                200
+            ],
+            "flags": {},
+            "order": 1,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "text"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "links": []
+                }
+            ],
+            "title": "Positive Prompt",
+            "properties": {
+                "cnr_id": "ComfyUI_JPS-Nodes",
+                "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+                "Node name for S&R": "Text Prompt (JPS)",
+                "ue_properties": {
+                    "widget_ue_connectable": {},
+                    "version": "7.1",
+                    "input_ue_unconnectable": {}
+                }
+            },
+            "widgets_values": [
+                "amateur photo. indoor scene, raw unedited amateurish mirror selfie of Min01, captured from a low angle as she crouches seductively on her bedroom floor leaning in towards the viewer, she is topless and wearing a high-waisted red lace panties, she is topless and her medium sized perky breasts with brown areoles are shown. She holds her iPhone with a black case, the case has a print of an otter on a skateboard, positioned at a strategic downward angle that captures her crouched position in the mirror's reflection, her dark hair with vibrant green streaks falling forward as she gazes at the phone screen with a sultry expression. In the background, the wall decorated with a small shelf that has a few potted plants and a beige colored desk with a gaming PC And a red and black gaming chair, and creates an intimate, vulnerable angle in her alternative-themed bedroom with soft ambient lighting from a string of fairy lights. Visible lens distortion from the mirror angle, natural skin texture, and the authentic graininess create a spontaneous moment that feels completely unposed and intimate."
+            ],
+            "color": "#232",
+            "bgcolor": "#353"
+        },
+        {
+            "id": 132,
+            "type": "Text Prompt (JPS)",
+            "pos": [
+                -2910.9482421875,
+                741.6926879882812
+            ],
+            "size": [
+                400,
+                200
+            ],
+            "flags": {},
+            "order": 2,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "text"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "links": []
+                }
+            ],
+            "title": "Positive Prompt",
+            "properties": {
+                "cnr_id": "ComfyUI_JPS-Nodes",
+                "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+                "Node name for S&R": "Text Prompt (JPS)",
+                "ue_properties": {
+                    "widget_ue_connectable": {},
+                    "version": "7.1",
+                    "input_ue_unconnectable": {}
+                }
+            },
+            "widgets_values": [
+                "amateur photo. Digital photograph, high resolution, ambient lighting, slightly grainy texture, indoor bedroom setting at night, Sydney01 posing, feet in the air, barefoot, lying on the stomach, wearing dark burgundy lipstick, dramatic eye makeup with dark eyeshadow and mascara, black nail polish, sheer black lace or mesh long-sleeved top, black ring on right hand, reclining on bed with dark red satin sheets, holding black corded telephone handset to ear with right hand, left hand resting near black push-button telephone base, large glass bowl filled with popcorn on left side of bed, horror movie magazines or comic books visible on bed, contemplative or concerned expression, gaze directed upward to her left, figure wearing white Ghostface mask from Scream franchise standing in doorway in background and holding machete, multiple movie posters on walls including crucifixion scene and other horror film imagery, dark wooden furniture with bottles visible on right side shelf"
+            ],
+            "color": "#232",
+            "bgcolor": "#353"
+        },
+        {
+            "id": 127,
+            "type": "Text Prompt (JPS)",
+            "pos": [
+                -2919.413330078125,
+                1002.2696533203125
+            ],
+            "size": [
+                400,
+                200
+            ],
+            "flags": {},
+            "order": 3,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "text"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "links": []
+                }
+            ],
+            "title": "Positive Prompt",
+            "properties": {
+                "cnr_id": "ComfyUI_JPS-Nodes",
+                "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+                "Node name for S&R": "Text Prompt (JPS)",
+                "ue_properties": {
+                    "widget_ue_connectable": {},
+                    "version": "7.1",
+                    "input_ue_unconnectable": {}
+                }
+            },
+            "widgets_values": [
+                "amateur photo. indoor scene, raw unedited amateurish dimly Top down shot of Becca01 laying on a bed with messy white sheets, her head is tilted to the side and her arm are lifted above her head to reveal her shaved under arms, she's captured from an awkward dutch high angle that focuses on her perfectly shaped tiny breasts and small erect nipples, she looks directly at the viewer with a playful smile with her slightly uneven teeth showing, she has a hollow navel and a flat stomach and a hint of her shaven pubic area can be shown at the edge of the frame, her brown hair naturally falls on her shuolders, she has a smooth skin texture and a choker necklace, uneven lighting and soft shadows from artifical lighting from a nearby lamp"
+            ],
+            "color": "#232",
+            "bgcolor": "#353"
+        },
+        {
+            "id": 155,
+            "type": "Text Prompt (JPS)",
+            "pos": [
+                -2950.800048828125,
+                1252.287109375
+            ],
+            "size": [
+                400,
+                200
+            ],
+            "flags": {},
+            "order": 4,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "text"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "links": []
+                }
+            ],
+            "title": "Positive Prompt",
+            "properties": {
+                "cnr_id": "ComfyUI_JPS-Nodes",
+                "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+                "Node name for S&R": "Text Prompt (JPS)",
+                "ue_properties": {
+                    "widget_ue_connectable": {},
+                    "version": "7.1",
+                    "input_ue_unconnectable": {}
+                }
+            },
+            "widgets_values": [
+                "amateur photo. indoor scene, raw unedited amateurish dimly Top down shot of Greta01 laying on a bed with messy white sheets, her head is tilted to the side and her arm are lifted above her head to reveal her shaved arm puts, she's captured from an awkward dutch high angle that focuses on her perfectly shaped breasts and small erect nipples, she looks directly at the viewer with a playful smile with her slightly uneven teeth showing, she has a hollow navel and a flat stomach, her legs are slighly spread and her tights are chubby, a hint of her shaven pubic area can be shown at the edge of the frame, her raven black messy  hair naturally falls on her shuolders, she has a smooth skin texture and a choker necklace, uneven lighting and soft shadows from artifical lighting from a nearby lamp"
+            ],
+            "color": "#232",
+            "bgcolor": "#353"
+        },
+        {
+            "id": 108,
+            "type": "Text Prompt (JPS)",
+            "pos": [
+                -2899.290283203125,
+                481.6962890625
+            ],
+            "size": [
+                400,
+                200
+            ],
+            "flags": {},
+            "order": 5,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "text"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "links": []
+                }
+            ],
+            "title": "Positive Prompt",
+            "properties": {
+                "cnr_id": "ComfyUI_JPS-Nodes",
+                "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+                "Node name for S&R": "Text Prompt (JPS)",
+                "ue_properties": {
+                    "widget_ue_connectable": {},
+                    "version": "7.1",
+                    "input_ue_unconnectable": {}
+                }
+            },
+            "widgets_values": [
+                "A top down selfie with both arms in the frame focusing on Sydney01 face, chest, abdomen and perfectly shaped breasts with ghost pale nipples, her neck, chest, navel and stomach are covered in cum, her face is shown and she is smiling with perfect teeth and her light blue eyes are glistening with joy, the scene takes place in a low lit bedroom as Sydney01 lays on a bed with white sheets that looks slightly messy, illuminated by harsh flash lighting that casts strong shadows behind her and shows her body in great detail, an on screen caption writes \"I'm so sticky lol\" her skin has natural imperfections and blemishes"
+            ],
+            "color": "#232",
+            "bgcolor": "#353"
+        },
+        {
+            "id": 150,
+            "type": "Text Prompt (JPS)",
+            "pos": [
+                -2480.022705078125,
+                1258.009033203125
+            ],
+            "size": [
+                400,
+                200
+            ],
+            "flags": {},
+            "order": 6,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "text"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "links": []
+                }
+            ],
+            "title": "Positive Prompt",
+            "properties": {
+                "cnr_id": "ComfyUI_JPS-Nodes",
+                "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+                "Node name for S&R": "Text Prompt (JPS)",
+                "ue_properties": {
+                    "widget_ue_connectable": {},
+                    "version": "7.1",
+                    "input_ue_unconnectable": {}
+                }
+            },
+            "widgets_values": [
+                "amateur photo. indoor scene, raw unedited amateurish bathroom mirror selfie of Min01, captured from a strategic low angle as she stands topless wearing only black lace lingerie bottoms. She's leaning against the clean white countertop with a confident, playful smile while looking directly into the camera with smoldering eyes, her dark hair with vibrant green streaks falling forward as she gazes at the phone screen with a sultry expression. She holds her smartphone at an angle that emphasizes her bare breasts and the delicate lace lingerie against her pale skin, with steam from a recent shower creating a soft haze around her body. The bright lighting from overhead fixtures creates clear, well-lit illumination that showcases her smooth skin in the minimalistic bathroom environment with plain white walls and simple fixtures in the background. Visible digital noise from the smartphone camera, natural skin texture, slight lens distortion from the close mirror angle, and the authentic graininess create a spontaneous, intimate moment that captures her confident energy in a clean, minimal bathroom setting."
+            ],
+            "color": "#232",
+            "bgcolor": "#353"
+        },
+        {
+            "id": 120,
+            "type": "ModelPassThrough",
+            "pos": [
+                -517.0682983398438,
+                97.25811767578125
+            ],
+            "size": [
+                140,
+                26
+            ],
+            "flags": {},
+            "order": 23,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "model",
+                    "name": "model",
+                    "shape": 7,
+                    "type": "MODEL",
+                    "link": 338
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "model",
+                    "name": "model",
+                    "type": "MODEL",
+                    "links": [
+                        252
+                    ]
+                }
+            ],
+            "properties": {
+                "cnr_id": "comfyui-kjnodes",
+                "ver": "9d7af919b91838fb22e31ad0107a6ddcf8bd7f3f",
+                "Node name for S&R": "ModelPassThrough",
+                "ue_properties": {
+                    "widget_ue_connectable": {},
+                    "version": "7.1",
+                    "input_ue_unconnectable": {}
+                }
+            },
+            "widgets_values": []
+        },
+        {
+            "id": 164,
+            "type": "CR Prompt List",
+            "pos": [
+                -2344.529541015625,
+                -64.14628601074219
+            ],
+            "size": [
+                402.28857421875,
+                668.6405639648438
+            ],
+            "flags": {
+                "collapsed": false
+            },
+            "order": 7,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "prepend_text",
+                    "name": "prepend_text",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "prepend_text"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "multiline_text",
+                    "name": "multiline_text",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "multiline_text"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "append_text",
+                    "name": "append_text",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "append_text"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "start_index",
+                    "name": "start_index",
+                    "type": "INT",
+                    "widget": {
+                        "name": "start_index"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "max_rows",
+                    "name": "max_rows",
+                    "type": "INT",
+                    "widget": {
+                        "name": "max_rows"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "prompt",
+                    "name": "prompt",
+                    "shape": 6,
+                    "type": "STRING",
+                    "links": []
+                },
+                {
+                    "localized_name": "body_text",
+                    "name": "body_text",
+                    "shape": 6,
+                    "type": "STRING",
+                    "links": null
+                },
+                {
+                    "localized_name": "show_help",
+                    "name": "show_help",
+                    "type": "STRING",
+                    "links": null
+                }
+            ],
+            "properties": {
+                "cnr_id": "ComfyUI_Comfyroll_CustomNodes",
+                "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+                "Node name for S&R": "CR Prompt List",
+                "ue_properties": {
+                    "widget_ue_connectable": {},
+                    "version": "7.1",
+                    "input_ue_unconnectable": {}
+                }
+            },
+            "widgets_values": [
+                "",
+                "Photorealistic over-the-shoulder selfie with slight lens distortion and visible chromatic aberration, showing Sydney01 as a fit woman with long flowing light brown hair draped elegantly over one shoulder, large sized breasts subtly accentuated in profile, and piercing light blue eyes glancing back coyly, clad in a skimpy white lace thong bikini with intricate floral patterns and ultra-thin side ties for minimal coverage, posing with a teasing backward glance and one hand on her hip, hint of an American house background with a blurred beige exterior wall and a glimpse of a red brick chimney, soft golden hour sunlight casting a warm glow on her skin.\nPhotorealistic dynamic candid shot with slight lens distortion and visible chromatic aberration, showing Sydney01 as a fit woman with long flowing light brown hair swirling mid-motion, large sized breasts bouncing slightly with energy, and bright light blue eyes sparkling with joy, twirling playfully in a revealing red leopard print micro bikini with lace-edged triangles and slender string bottoms offering barely-there coverage, captured mid-spin with arms outstretched and a radiant smile, poolside setting with a blurred edge of sparkling blue water and a faint pool float in the distance, vibrant midday sunlight enhancing the vivid patterns.\nPhotorealistic seated straight-on shot with slight lens distortion and visible chromatic aberration, showing Sydney01 as a fit woman with long flowing light brown hair cascading down her back, large sized breasts prominently framed by the outfit, and captivating light blue eyes locking onto the viewer intently, sitting cross-legged in an ultra-skimpy black lace bralette and thong set with exotic zebra stripe accents, sheer mesh panels, and ribbon ties, leaning forward slightly with a seductive pout, balcony setting with a blurred railing and a hint of a city skyline in the background, diffused afternoon light creating subtle highlights and shadows.\nPhotorealistic low-angle upward shot with slight lens distortion and visible chromatic aberration, showing Sydney01 as a fit woman with long flowing light brown hair fanned out dramatically, large sized breasts emphasized from the perspective, and enigmatic light blue eyes gazing downward mysteriously, reclining on her elbows in a provocative pink tiger print sling bikini with delicate lace trims and minimal slingshot strings, arching her back slightly with a sultry expression, rooftop setting with a blurred view of a tiled roof edge and faint urban horizon, warm sunset light bathing her in an orange hue.",
+                "",
+                0,
+                1000
+            ]
+        },
+        {
+            "id": 66,
+            "type": "ModelSamplingAuraFlow",
+            "pos": [
+                449.0407409667969,
+                -672.3615112304688
+            ],
+            "size": [
+                270,
+                58
+            ],
+            "flags": {
+                "collapsed": false
+            },
+            "order": 24,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "model",
+                    "name": "model",
+                    "type": "MODEL",
+                    "link": 252
+                },
+                {
+                    "localized_name": "shift",
+                    "name": "shift",
+                    "type": "FLOAT",
+                    "widget": {
+                        "name": "shift"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "MODEL",
+                    "name": "MODEL",
+                    "type": "MODEL",
+                    "links": [
+                        189
+                    ]
+                }
+            ],
+            "properties": {
+                "cnr_id": "comfy-core",
+                "ver": "0.3.49",
+                "Node name for S&R": "ModelSamplingAuraFlow",
+                "ue_properties": {
+                    "version": "7.0.1",
+                    "widget_ue_connectable": {}
+                }
+            },
+            "widgets_values": [
+                1.7
+            ]
+        },
+        {
+            "id": 126,
+            "type": "ClownOptions_SwapSampler_Beta",
+            "pos": [
+                473.9403381347656,
+                -556.2119140625
+            ],
+            "size": [
+                281.9820251464844,
+                130.32339477539062
+            ],
+            "flags": {
+                "collapsed": true
+            },
+            "order": 8,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "options",
+                    "name": "options",
+                    "shape": 7,
+                    "type": "OPTIONS",
+                    "link": null
+                },
+                {
+                    "localized_name": "sampler_name",
+                    "name": "sampler_name",
+                    "type": "COMBO",
+                    "widget": {
+                        "name": "sampler_name"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "swap_below_err",
+                    "name": "swap_below_err",
+                    "type": "FLOAT",
+                    "widget": {
+                        "name": "swap_below_err"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "swap_at_step",
+                    "name": "swap_at_step",
+                    "type": "INT",
+                    "widget": {
+                        "name": "swap_at_step"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "log_err_to_console",
+                    "name": "log_err_to_console",
+                    "type": "BOOLEAN",
+                    "widget": {
+                        "name": "log_err_to_console"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "options",
+                    "name": "options",
+                    "type": "OPTIONS",
+                    "links": [
+                        258
+                    ]
+                }
+            ],
+            "properties": {
+                "cnr_id": "RES4LYF",
+                "ver": "7750bf7800b6ad9d670308a09989fc0c04c40cec",
+                "Node name for S&R": "ClownOptions_SwapSampler_Beta",
+                "ue_properties": {
+                    "widget_ue_connectable": {
+                        "sampler_name": true,
+                        "swap_below_err": true,
+                        "swap_at_step": true,
+                        "log_err_to_console": true
+                    },
+                    "version": "7.1",
+                    "input_ue_unconnectable": {}
+                }
+            },
+            "widgets_values": [
+                "exponential/res_4s_krogstad",
+                0,
+                18,
+                false
+            ]
+        },
+        {
+            "id": 75,
+            "type": "ClownsharKSampler_Beta",
+            "pos": [
+                374.22027587890625,
+                -505.6328125
+            ],
+            "size": [
+                442.18280029296875,
+                449.7906188964844
+            ],
+            "flags": {},
+            "order": 25,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "model",
+                    "name": "model",
+                    "shape": 7,
+                    "type": "MODEL",
+                    "link": 189
+                },
+                {
+                    "localized_name": "positive",
+                    "name": "positive",
+                    "shape": 7,
+                    "type": "CONDITIONING",
+                    "link": 148
+                },
+                {
+                    "localized_name": "negative",
+                    "name": "negative",
+                    "shape": 7,
+                    "type": "CONDITIONING",
+                    "link": 149
+                },
+                {
+                    "localized_name": "latent_image",
+                    "name": "latent_image",
+                    "shape": 7,
+                    "type": "LATENT",
+                    "link": 222
+                },
+                {
+                    "localized_name": "sigmas",
+                    "name": "sigmas",
+                    "shape": 7,
+                    "type": "SIGMAS",
+                    "link": null
+                },
+                {
+                    "localized_name": "guides",
+                    "name": "guides",
+                    "shape": 7,
+                    "type": "GUIDES",
+                    "link": null
+                },
+                {
+                    "localized_name": "options",
+                    "name": "options",
+                    "shape": 7,
+                    "type": "OPTIONS",
+                    "link": 258
+                },
+                {
+                    "localized_name": "eta",
+                    "name": "eta",
+                    "type": "FLOAT",
+                    "widget": {
+                        "name": "eta"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "sampler_name",
+                    "name": "sampler_name",
+                    "type": "COMBO",
+                    "widget": {
+                        "name": "sampler_name"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "scheduler",
+                    "name": "scheduler",
+                    "type": "COMBO",
+                    "widget": {
+                        "name": "scheduler"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "steps",
+                    "name": "steps",
+                    "type": "INT",
+                    "widget": {
+                        "name": "steps"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "steps_to_run",
+                    "name": "steps_to_run",
+                    "type": "INT",
+                    "widget": {
+                        "name": "steps_to_run"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "denoise",
+                    "name": "denoise",
+                    "type": "FLOAT",
+                    "widget": {
+                        "name": "denoise"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "cfg",
+                    "name": "cfg",
+                    "type": "FLOAT",
+                    "widget": {
+                        "name": "cfg"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "seed",
+                    "name": "seed",
+                    "type": "INT",
+                    "widget": {
+                        "name": "seed"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "sampler_mode",
+                    "name": "sampler_mode",
+                    "type": "COMBO",
+                    "widget": {
+                        "name": "sampler_mode"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "bongmath",
+                    "name": "bongmath",
+                    "type": "BOOLEAN",
+                    "widget": {
+                        "name": "bongmath"
+                    },
+                    "link": null
+                },
+                {
+                    "name": "options 2",
+                    "type": "OPTIONS",
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "output",
+                    "name": "output",
+                    "type": "LATENT",
+                    "links": [
+                        190
+                    ]
+                },
+                {
+                    "localized_name": "denoised",
+                    "name": "denoised",
+                    "type": "LATENT",
+                    "links": []
+                },
+                {
+                    "localized_name": "options",
+                    "name": "options",
+                    "type": "OPTIONS",
+                    "links": []
+                }
+            ],
+            "properties": {
+                "cnr_id": "RES4LYF",
+                "ver": "2f84be17fc8d0096ea6b06e29a3133d57c3f65ca",
+                "Node name for S&R": "ClownsharKSampler_Beta",
+                "ue_properties": {
+                    "version": "7.0.1",
+                    "widget_ue_connectable": {}
+                }
+            },
+            "widgets_values": [
+                0.12,
+                "multistep/deis_3m",
+                "kl_optimal",
+                24,
+                -1,
+                1,
+                2.4,
+                1043906184784021,
+                "randomize",
+                "standard",
+                true
+            ],
+            "color": "#2a363b",
+            "bgcolor": "#3f5159"
+        },
+        {
+            "id": 8,
+            "type": "VAEDecode",
+            "pos": [
+                761.5155639648438,
+                -570.8323974609375
+            ],
+            "size": [
+                210,
+                46
+            ],
+            "flags": {
+                "collapsed": true
+            },
+            "order": 26,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "samples",
+                    "name": "samples",
+                    "type": "LATENT",
+                    "link": 190
+                },
+                {
+                    "localized_name": "vae",
+                    "name": "vae",
+                    "type": "VAE",
+                    "link": 76
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "IMAGE",
+                    "name": "IMAGE",
+                    "type": "IMAGE",
+                    "slot_index": 0,
+                    "links": [
+                        254
+                    ]
+                }
+            ],
+            "properties": {
+                "cnr_id": "comfy-core",
+                "ver": "0.3.49",
+                "Node name for S&R": "VAEDecode",
+                "ue_properties": {
+                    "version": "7.0.1",
+                    "widget_ue_connectable": {}
+                }
+            },
+            "widgets_values": []
+        },
+        {
+            "id": 122,
+            "type": "Film Grain",
+            "pos": [
+                1018.958984375,
+                -676.1248168945312
+            ],
+            "size": [
+                270,
+                154
+            ],
+            "flags": {
+                "collapsed": true
+            },
+            "order": 27,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "image",
+                    "name": "image",
+                    "type": "IMAGE",
+                    "link": 254
+                },
+                {
+                    "localized_name": "density",
+                    "name": "density",
+                    "type": "FLOAT",
+                    "widget": {
+                        "name": "density"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "intensity",
+                    "name": "intensity",
+                    "type": "FLOAT",
+                    "widget": {
+                        "name": "intensity"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "highlights",
+                    "name": "highlights",
+                    "type": "FLOAT",
+                    "widget": {
+                        "name": "highlights"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "supersample_factor",
+                    "name": "supersample_factor",
+                    "type": "INT",
+                    "widget": {
+                        "name": "supersample_factor"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "repeats",
+                    "name": "repeats",
+                    "type": "INT",
+                    "widget": {
+                        "name": "repeats"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "IMAGE",
+                    "name": "IMAGE",
+                    "type": "IMAGE",
+                    "links": [
+                        321,
+                        337
+                    ]
+                }
+            ],
+            "properties": {
+                "cnr_id": "RES4LYF",
+                "ver": "7750bf7800b6ad9d670308a09989fc0c04c40cec",
+                "Node name for S&R": "Film Grain",
+                "ue_properties": {
+                    "widget_ue_connectable": {
+                        "density": true,
+                        "intensity": true,
+                        "highlights": true,
+                        "supersample_factor": true,
+                        "repeats": true
+                    },
+                    "version": "7.1",
+                    "input_ue_unconnectable": {}
+                }
+            },
+            "widgets_values": [
+                1,
+                0.04,
+                1,
+                4,
+                1
+            ]
+        },
+        {
+            "id": 165,
+            "type": "Fast Bypasser (rgthree)",
+            "pos": [
+                1283.2039794921875,
+                -690.2684936523438
+            ],
+            "size": [
+                343.53851318359375,
+                63.39334487915039
+            ],
+            "flags": {},
+            "order": 29,
+            "mode": 0,
+            "inputs": [
+                {
+                    "dir": 3,
+                    "label": " ",
+                    "name": "Film Grain",
+                    "type": "*",
+                    "link": 337
+                },
+                {
+                    "dir": 3,
+                    "label": " ",
+                    "name": "",
+                    "type": "*",
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "dir": 4,
+                    "label": " ",
+                    "name": "OPT_CONNECTION",
+                    "type": "*",
+                    "links": null
+                }
+            ],
+            "title": "Disable Film Grain",
+            "properties": {
+                "toggleRestriction": "default",
+                "collapse_connections": true,
+                "ue_properties": {
+                    "widget_ue_connectable": {},
+                    "version": "7.1",
+                    "input_ue_unconnectable": {}
+                }
+            },
+            "color": "#232",
+            "bgcolor": "#353"
+        },
+        {
+            "id": 166,
+            "type": "LoraLoaderModelOnly",
+            "pos": [
+                -659.1193906377306,
+                231.38956175883914
+            ],
+            "size": [
+                363.27520751953125,
+                82
+            ],
+            "flags": {},
+            "order": 22,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "model",
+                    "name": "model",
+                    "type": "MODEL",
+                    "link": 339
+                },
+                {
+                    "localized_name": "lora_name",
+                    "name": "lora_name",
+                    "type": "COMBO",
+                    "widget": {
+                        "name": "lora_name"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "strength_model",
+                    "name": "strength_model",
+                    "type": "FLOAT",
+                    "widget": {
+                        "name": "strength_model"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "MODEL",
+                    "name": "MODEL",
+                    "type": "MODEL",
+                    "links": [
+                        338
+                    ]
+                }
+            ],
+            "title": "LoRA 2",
+            "properties": {
+                "cnr_id": "comfy-core",
+                "ver": "0.3.49",
+                "Node name for S&R": "LoraLoaderModelOnly",
+                "ue_properties": {
+                    "version": "7.0.1",
+                    "widget_ue_connectable": {}
+                }
+            },
+            "widgets_values": [
+                "nicegirls_alternative.safetensors",
+                0.65
+            ]
+        },
+        {
+            "id": 103,
+            "type": "LoraLoaderModelOnly",
+            "pos": [
+                -628.7059326171875,
+                -51.74188232421875
+            ],
+            "size": [
+                363.27520751953125,
+                82
+            ],
+            "flags": {},
+            "order": 21,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "model",
+                    "name": "model",
+                    "type": "MODEL",
+                    "link": 223
+                },
+                {
+                    "localized_name": "lora_name",
+                    "name": "lora_name",
+                    "type": "COMBO",
+                    "widget": {
+                        "name": "lora_name"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "strength_model",
+                    "name": "strength_model",
+                    "type": "FLOAT",
+                    "widget": {
+                        "name": "strength_model"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "MODEL",
+                    "name": "MODEL",
+                    "type": "MODEL",
+                    "links": [
+                        339
+                    ]
+                }
+            ],
+            "title": "LoRA 2",
+            "properties": {
+                "cnr_id": "comfy-core",
+                "ver": "0.3.49",
+                "Node name for S&R": "LoraLoaderModelOnly",
+                "ue_properties": {
+                    "version": "7.0.1",
+                    "widget_ue_connectable": {}
+                }
+            },
+            "widgets_values": [
+                "Samsung.safetensors",
+                0.85
+            ]
+        },
+        {
+            "id": 7,
+            "type": "CLIPTextEncode",
+            "pos": [
+                -123.44459451944478,
+                120.74970198905208
+            ],
+            "size": [
+                522.5441284179688,
+                165.83148193359375
+            ],
+            "flags": {
+                "collapsed": true
+            },
+            "order": 18,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "clip",
+                    "name": "clip",
+                    "type": "CLIP",
+                    "link": 216
+                },
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "text"
+                    },
+                    "link": 229
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "CONDITIONING",
+                    "name": "CONDITIONING",
+                    "type": "CONDITIONING",
+                    "slot_index": 0,
+                    "links": [
+                        149
+                    ]
+                }
+            ],
+            "title": "CLIP Text Encode (Negative Prompt)",
+            "properties": {
+                "cnr_id": "comfy-core",
+                "ver": "0.3.49",
+                "Node name for S&R": "CLIPTextEncode",
+                "ue_properties": {
+                    "version": "7.0.1",
+                    "widget_ue_connectable": {}
+                }
+            },
+            "widgets_values": [
+                "cinematic, glossy finish, shallow depth of field, cinematic bokeh, uncanny anatomy, frame-perfect symmetry, blurred background, fat, low resolution, big ears, vertical lines, lines glitch"
+            ],
+            "color": "#322",
+            "bgcolor": "#533"
+        },
+        {
+            "id": 109,
+            "type": "Text Prompt (JPS)",
+            "pos": [
+                -214.1760580502631,
+                75.957962617697
+            ],
+            "size": [
+                404.6051025390625,
+                108.1858139038086
+            ],
+            "flags": {},
+            "order": 9,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "text"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "links": [
+                        229
+                    ]
+                }
+            ],
+            "title": "Negative Prompt",
+            "properties": {
+                "cnr_id": "ComfyUI_JPS-Nodes",
+                "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+                "Node name for S&R": "Text Prompt (JPS)",
+                "ue_properties": {
+                    "widget_ue_connectable": {},
+                    "version": "7.1",
+                    "input_ue_unconnectable": {}
+                }
+            },
+            "widgets_values": [
+                "cinematic, glossy finish, shallow depth of field, cinematic bokeh, uncanny anatomy, frame-perfect symmetry, blurred background, fat, low resolution, big ears, vertical lines, lines glitch"
+            ],
+            "color": "#322",
+            "bgcolor": "#533"
+        },
+        {
+            "id": 96,
+            "type": "UNETLoader",
+            "pos": [
+                -1040,
+                -320
+            ],
+            "size": [
+                302.80438232421875,
+                82
+            ],
+            "flags": {},
+            "order": 10,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "unet_name",
+                    "name": "unet_name",
+                    "type": "COMBO",
+                    "widget": {
+                        "name": "unet_name"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "weight_dtype",
+                    "name": "weight_dtype",
+                    "type": "COMBO",
+                    "widget": {
+                        "name": "weight_dtype"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "MODEL",
+                    "name": "MODEL",
+                    "type": "MODEL",
+                    "links": [
+                        217
+                    ]
+                }
+            ],
+            "properties": {
+                "cnr_id": "comfy-core",
+                "ver": "0.3.52",
+                "Node name for S&R": "UNETLoader",
+                "ue_properties": {
+                    "version": "7.0.1",
+                    "widget_ue_connectable": {
+                        "unet_name": true,
+                        "weight_dtype": true
+                    }
+                }
+            },
+            "widgets_values": [
+                "qwen_image_bf16.safetensors",
+                "default"
+            ],
+            "color": "#223",
+            "bgcolor": "#335"
+        },
+        {
+            "id": 99,
+            "type": "CLIPLoader",
+            "pos": [
+                -1030,
+                -170
+            ],
+            "size": [
+                297.8836669921875,
+                115.81897735595703
+            ],
+            "flags": {},
+            "order": 11,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "clip_name",
+                    "name": "clip_name",
+                    "type": "COMBO",
+                    "widget": {
+                        "name": "clip_name"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "type",
+                    "name": "type",
+                    "type": "COMBO",
+                    "widget": {
+                        "name": "type"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "device",
+                    "name": "device",
+                    "shape": 7,
+                    "type": "COMBO",
+                    "widget": {
+                        "name": "device"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "CLIP",
+                    "name": "CLIP",
+                    "type": "CLIP",
+                    "links": [
+                        215,
+                        216
+                    ]
+                }
+            ],
+            "properties": {
+                "cnr_id": "comfy-core",
+                "ver": "0.3.52",
+                "Node name for S&R": "CLIPLoader",
+                "ue_properties": {
+                    "version": "7.0.1",
+                    "widget_ue_connectable": {
+                        "clip_name": true,
+                        "type": true,
+                        "device": true
+                    }
+                }
+            },
+            "widgets_values": [
+                "qwen_2.5_vl_7b.safetensors",
+                "qwen_image",
+                "default"
+            ],
+            "color": "#223",
+            "bgcolor": "#335"
+        },
+        {
+            "id": 39,
+            "type": "VAELoader",
+            "pos": [
+                -1030,
+                10
+            ],
+            "size": [
+                288.9561462402344,
+                58.316253662109375
+            ],
+            "flags": {
+                "collapsed": false
+            },
+            "order": 12,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "vae_name",
+                    "name": "vae_name",
+                    "type": "COMBO",
+                    "widget": {
+                        "name": "vae_name"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "VAE",
+                    "name": "VAE",
+                    "type": "VAE",
+                    "slot_index": 0,
+                    "links": [
+                        76
+                    ]
+                }
+            ],
+            "properties": {
+                "cnr_id": "comfy-core",
+                "ver": "0.3.49",
+                "Node name for S&R": "VAELoader",
+                "ue_properties": {
+                    "version": "7.0.1",
+                    "widget_ue_connectable": {}
+                }
+            },
+            "widgets_values": [
+                "qwen_image_vae.safetensors"
+            ],
+            "color": "#223",
+            "bgcolor": "#335"
+        },
+        {
+            "id": 101,
+            "type": "LoraLoaderModelOnly",
+            "pos": [
+                -640,
+                -360
+            ],
+            "size": [
+                377.3145751953125,
+                83.44073486328125
+            ],
+            "flags": {},
+            "order": 17,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "model",
+                    "name": "model",
+                    "type": "MODEL",
+                    "link": 217
+                },
+                {
+                    "localized_name": "lora_name",
+                    "name": "lora_name",
+                    "type": "COMBO",
+                    "widget": {
+                        "name": "lora_name"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "strength_model",
+                    "name": "strength_model",
+                    "type": "FLOAT",
+                    "widget": {
+                        "name": "strength_model"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "MODEL",
+                    "name": "MODEL",
+                    "type": "MODEL",
+                    "links": [
+                        218
+                    ]
+                }
+            ],
+            "title": "Character LoRA",
+            "properties": {
+                "cnr_id": "comfy-core",
+                "ver": "0.3.52",
+                "Node name for S&R": "LoraLoaderModelOnly",
+                "ue_properties": {
+                    "version": "7.0.1",
+                    "widget_ue_connectable": {
+                        "lora_name": true,
+                        "strength_model": true
+                    }
+                }
+            },
+            "widgets_values": [
+                "16jasmin02_000002750.safetensors",
+                1
+            ],
+            "color": "#232",
+            "bgcolor": "#353"
+        },
+        {
+            "id": 83,
+            "type": "LoraLoaderModelOnly",
+            "pos": [
+                -630,
+                -200
+            ],
+            "size": [
+                372.6443786621094,
+                82
+            ],
+            "flags": {},
+            "order": 20,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "model",
+                    "name": "model",
+                    "type": "MODEL",
+                    "link": 218
+                },
+                {
+                    "localized_name": "lora_name",
+                    "name": "lora_name",
+                    "type": "COMBO",
+                    "widget": {
+                        "name": "lora_name"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "strength_model",
+                    "name": "strength_model",
+                    "type": "FLOAT",
+                    "widget": {
+                        "name": "strength_model"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "MODEL",
+                    "name": "MODEL",
+                    "type": "MODEL",
+                    "links": [
+                        223
+                    ]
+                }
+            ],
+            "title": "LoRA 1",
+            "properties": {
+                "cnr_id": "comfy-core",
+                "ver": "0.3.49",
+                "Node name for S&R": "LoraLoaderModelOnly",
+                "ue_properties": {
+                    "version": "7.0.1",
+                    "widget_ue_connectable": {}
+                }
+            },
+            "widgets_values": [
+                "lenovo.safetensors",
+                0.85
+            ]
+        },
+        {
+            "id": 154,
+            "type": "PreviewImage",
+            "pos": [
+                1150.4939501820852,
+                -497.42277324467693
+            ],
+            "size": [
+                439.50506307053547,
+                629.2357987209773
+            ],
+            "flags": {},
+            "order": 28,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "images",
+                    "name": "images",
+                    "type": "IMAGE",
+                    "link": 321
+                }
+            ],
+            "outputs": [],
+            "properties": {
+                "cnr_id": "comfy-core",
+                "ver": "0.3.60",
+                "Node name for S&R": "PreviewImage",
+                "ue_properties": {
+                    "widget_ue_connectable": {},
+                    "version": "7.1",
+                    "input_ue_unconnectable": {}
+                }
+            },
+            "widgets_values": []
+        },
+        {
+            "id": 179,
+            "type": "WildcardPromptFromString",
+            "pos": [
+                -229.05959210396657,
+                -833.1774092187603
+            ],
+            "size": [
+                275.7203125,
+                174
+            ],
+            "flags": {},
+            "order": 13,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "string",
+                    "name": "string",
+                    "type": "STRING",
+                    "link": null
+                },
+                {
+                    "localized_name": "delimiter",
+                    "name": "delimiter",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "delimiter"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "prefix_all",
+                    "name": "prefix_all",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "prefix_all"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "postfix_all",
+                    "name": "postfix_all",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "postfix_all"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "restrict_to_tags",
+                    "name": "restrict_to_tags",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "restrict_to_tags"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "exclude_tags",
+                    "name": "exclude_tags",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "exclude_tags"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "wildcard",
+                    "name": "wildcard",
+                    "type": "STRING",
+                    "links": null
+                },
+                {
+                    "localized_name": "segs_labels",
+                    "name": "segs_labels",
+                    "type": "STRING",
+                    "links": null
+                }
+            ],
+            "properties": {
+                "cnr_id": "comfyui-impact-pack",
+                "ver": "8.28.0",
+                "Node name for S&R": "WildcardPromptFromString",
+                "ue_properties": {
+                    "widget_ue_connectable": {},
+                    "input_ue_unconnectable": {},
+                    "version": "7.5.1"
+                }
+            },
+            "widgets_values": [
+                "\\n",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 6,
+            "type": "CLIPTextEncode",
+            "pos": [
+                -140.96661319280904,
+                -168.12080504631027
+            ],
+            "size": [
+                552.7510121239657,
+                327.45959977045004
+            ],
+            "flags": {
+                "collapsed": true
+            },
+            "order": 19,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "clip",
+                    "name": "clip",
+                    "type": "CLIP",
+                    "link": 215
+                },
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "text"
+                    },
+                    "link": 357
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "CONDITIONING",
+                    "name": "CONDITIONING",
+                    "type": "CONDITIONING",
+                    "slot_index": 0,
+                    "links": [
+                        148
+                    ]
+                }
+            ],
+            "title": "CLIP Text Encode (Positive Prompt)",
+            "properties": {
+                "cnr_id": "comfy-core",
+                "ver": "0.3.49",
+                "Node name for S&R": "CLIPTextEncode",
+                "ue_properties": {
+                    "version": "7.0.1",
+                    "widget_ue_connectable": {}
+                }
+            },
+            "widgets_values": [
+                "London 01 (21 years old), confident and alluring, with voluminous, tightly defined blonde and brown curly hair with bangs, tanned healthy skin with realistic pores/texture, wearing a black fishnet bodysuit and a silver body chain. Messy hotel room bathroom, harsh direct flash illuminating her with deep shadows. Close-up mirror selfie, London 01 leaning into the mirror, holding the phone slightly high. Medium-quality smartphone photo, social media portrait, low-resolution, visible sensor noise/grain, mild JPEG compression artifacts, camera lens smudge, slightly blurry from slight camera movement, high contrast unfiltered look."
+            ],
+            "color": "#232",
+            "bgcolor": "#353"
+        },
+        {
+            "id": 152,
+            "type": "Text Prompt (JPS)",
+            "pos": [
+                -182.17419664290466,
+                -639.7845768405899
+            ],
+            "size": [
+                395.8003443035575,
+                165.25515823812177
+            ],
+            "flags": {},
+            "order": 14,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "text"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "text",
+                    "name": "text",
+                    "type": "STRING",
+                    "links": []
+                }
+            ],
+            "title": "Positive Prompt",
+            "properties": {
+                "cnr_id": "ComfyUI_JPS-Nodes",
+                "ver": "0e2a9aca02b17dde91577bfe4b65861df622dcaf",
+                "Node name for S&R": "Text Prompt (JPS)",
+                "ue_properties": {
+                    "widget_ue_connectable": {},
+                    "version": "7.1",
+                    "input_ue_unconnectable": {}
+                }
+            },
+            "widgets_values": [
+                "Vertical front-camera selfie at night inside a parked car, dim warm interior light mixing with cool streetlight bleed through the rain-streaked windshield, slight phone flash catching on her glossy lips and collarbone, Jasmin01 sitting in the passenger seat angled toward the camera, head very slightly tilted, sultry half-lidded eyes staring straight into the lens with that soft “just bit my lip” pout, super glossy nude-pink lips, long straight dark hair with a few strands stuck to her cheek from the humidity, wearing a tight black ribbed scoop-neck top pulled down just enough to create deep shadowed cleavage, thin gold necklace with a tiny dangling pendant resting right in the middle of her chest, subtle sheen of sweat or setting spray on her skin, faint seatbelt line crossing one shoulder, black leather seats and blurred city lights in the background, slight lens smudge in the top corner, grainy ISO, over-sharpened iPhone beauty filter look\n\n"
+            ],
+            "color": "#232",
+            "bgcolor": "#353"
+        },
+        {
+            "id": 95,
+            "type": "EmptyLatentImage",
+            "pos": [
+                -199.66795900276597,
+                239.29381916838545
+            ],
+            "size": [
+                398.8357849121094,
+                106
+            ],
+            "flags": {},
+            "order": 15,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "width",
+                    "name": "width",
+                    "type": "INT",
+                    "widget": {
+                        "name": "width"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "height",
+                    "name": "height",
+                    "type": "INT",
+                    "widget": {
+                        "name": "height"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "batch_size",
+                    "name": "batch_size",
+                    "type": "INT",
+                    "widget": {
+                        "name": "batch_size"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "LATENT",
+                    "name": "LATENT",
+                    "type": "LATENT",
+                    "links": [
+                        222
+                    ]
+                }
+            ],
+            "title": "Image Resolution",
+            "properties": {
+                "cnr_id": "comfy-core",
+                "ver": "0.3.49",
+                "Node name for S&R": "EmptyLatentImage",
+                "ue_properties": {
+                    "version": "7.0.1",
+                    "widget_ue_connectable": {
+                        "width": true,
+                        "height": true,
+                        "batch_size": true
+                    }
+                },
+                "widget_ue_connectable": {}
+            },
+            "widgets_values": [
+                1296,
+                1776,
+                1
+            ],
+            "color": "#223",
+            "bgcolor": "#335"
+        },
+        {
+            "id": 183,
+            "type": "ImpactWildcardProcessor",
+            "pos": [
+                -1122.2425148632083,
+                -852.4227114166723
+            ],
+            "size": [
+                703.5467744376277,
+                411.6213682483428
+            ],
+            "flags": {
+                "collapsed": false
+            },
+            "order": 16,
+            "mode": 0,
+            "inputs": [
+                {
+                    "localized_name": "wildcard_text",
+                    "name": "wildcard_text",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "wildcard_text"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "populated_text",
+                    "name": "populated_text",
+                    "type": "STRING",
+                    "widget": {
+                        "name": "populated_text"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "mode",
+                    "name": "mode",
+                    "type": "COMBO",
+                    "widget": {
+                        "name": "mode"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "seed",
+                    "name": "seed",
+                    "type": "INT",
+                    "widget": {
+                        "name": "seed"
+                    },
+                    "link": null
+                },
+                {
+                    "localized_name": "Select to add Wildcard",
+                    "name": "Select to add Wildcard",
+                    "type": "COMBO",
+                    "widget": {
+                        "name": "Select to add Wildcard"
+                    },
+                    "link": null
+                }
+            ],
+            "outputs": [
+                {
+                    "localized_name": "processed text",
+                    "name": "processed text",
+                    "type": "STRING",
+                    "links": [
+                        357
+                    ]
+                }
+            ],
+            "properties": {
+                "cnr_id": "comfyui-impact-pack",
+                "ver": "8.28.0",
+                "Node name for S&R": "ImpactWildcardProcessor",
+                "ue_properties": {
+                    "widget_ue_connectable": {},
+                    "input_ue_unconnectable": {},
+                    "version": "7.5.1"
+                }
+            },
+            "widgets_values": [
+                "{Vertical|Angled|Slightly tilted} front-camera selfie at  inside a parked car,  interior light mixing with {cool|cold blue|neon} streetlight bleed through the {rain-streaked|foggy|damp} windshield, {slight|soft|gentle} phone flash catching on her {glossy|shiny|wet-looking} lips and collarbone, Jasmin01 sitting in the passenger seat angled toward the camera, head, half-lidded eyes staring straight into the lens with that soft \"just bit my lip\" pout, super glossy  lips, long straight dark hair with a few strands stuck to her cheek from the humidity, wearing a tight {red|green|yellow} ribbed scoop-neck top pulled down just enough to create deep shadowed cleavage, thin gold necklace with a tiny dangling pendant resting right in the middle of her chest, subtle sheen of {sweat|moisture|glow} or setting spray on her skin, faint seatbelt line crossing one shoulder, black leather seats and blurred city lights in the background, slight lens smudge in the top corner, grainy ISO, over-sharpened iPhone beauty filter look",
+                "Angled front-camera selfie at  inside a parked car,  interior light mixing with cold blue streetlight bleed through the foggy windshield, slight phone flash catching on her glossy lips and collarbone, Jasmin01 sitting in the passenger seat angled toward the camera, head, half-lidded eyes staring straight into the lens with that soft \"just bit my lip\" pout, super glossy  lips, long straight dark hair with a few strands stuck to her cheek from the humidity, wearing a tight red ribbed scoop-neck top pulled down just enough to create deep shadowed cleavage, thin gold necklace with a tiny dangling pendant resting right in the middle of her chest, subtle sheen of moisture or setting spray on her skin, faint seatbelt line crossing one shoulder, black leather seats and blurred city lights in the background, slight lens smudge in the top corner, grainy ISO, over-sharpened iPhone beauty filter look",
+                "populate",
+                992743120096807,
+                "randomize",
+                "Select Wildcard 🟢 Full Cache"
+            ]
+        }
+    ],
+    "links": [
+        [
+            76,
+            39,
+            0,
+            8,
+            1,
+            "VAE"
+        ],
+        [
+            148,
+            6,
+            0,
+            75,
+            1,
+            "CONDITIONING"
+        ],
+        [
+            149,
+            7,
+            0,
+            75,
+            2,
+            "CONDITIONING"
+        ],
+        [
+            189,
+            66,
+            0,
+            75,
+            0,
+            "MODEL"
+        ],
+        [
+            190,
+            75,
+            0,
+            8,
+            0,
+            "LATENT"
+        ],
+        [
+            215,
+            99,
+            0,
+            6,
+            0,
+            "CLIP"
+        ],
+        [
+            216,
+            99,
+            0,
+            7,
+            0,
+            "CLIP"
+        ],
+        [
+            217,
+            96,
+            0,
+            101,
+            0,
+            "MODEL"
+        ],
+        [
+            218,
+            101,
+            0,
+            83,
+            0,
+            "MODEL"
+        ],
+        [
+            222,
+            95,
+            0,
+            75,
+            3,
+            "LATENT"
+        ],
+        [
+            223,
+            83,
+            0,
+            103,
+            0,
+            "MODEL"
+        ],
+        [
+            229,
+            109,
+            0,
+            7,
+            1,
+            "STRING"
+        ],
+        [
+            252,
+            120,
+            0,
+            66,
+            0,
+            "MODEL"
+        ],
+        [
+            254,
+            8,
+            0,
+            122,
+            0,
+            "IMAGE"
+        ],
+        [
+            258,
+            126,
+            0,
+            75,
+            6,
+            "OPTIONS"
+        ],
+        [
+            321,
+            122,
+            0,
+            154,
+            0,
+            "IMAGE"
+        ],
+        [
+            337,
+            122,
+            0,
+            165,
+            0,
+            "*"
+        ],
+        [
+            338,
+            166,
+            0,
+            120,
+            0,
+            "MODEL"
+        ],
+        [
+            339,
+            103,
+            0,
+            166,
+            0,
+            "MODEL"
+        ],
+        [
+            357,
+            183,
+            0,
+            6,
+            1,
+            "STRING"
+        ]
+    ],
+    "groups": [
+        {
+            "id": 1,
+            "title": "Model Loaders",
+            "bounding": [
+                -1100,
+                -440,
+                418.6479797363281,
+                575.1849365234375
+            ],
+            "color": "#b58b2a",
+            "font_size": 24,
+            "flags": {}
+        },
+        {
+            "id": 2,
+            "title": "LoRA Loaders",
+            "bounding": [
+                -656.5916748046875,
+                -444.35528564453125,
+                418.6479797363281,
+                575.1849365234375
+            ],
+            "color": "#b58b2a",
+            "font_size": 24,
+            "flags": {}
+        },
+        {
+            "id": 3,
+            "title": "Prompts & Resolution",
+            "bounding": [
+                -220.02935791015625,
+                -441.47296142578125,
+                441.193406275353,
+                805.9681700330127
+            ],
+            "color": "#b58b2a",
+            "font_size": 24,
+            "flags": {}
+        },
+        {
+            "id": 4,
+            "title": "LoRA Loaders",
+            "bounding": [
+                246.89768981933594,
+                -771.646484375,
+                703.97802734375,
+                1120.1124267578125
+            ],
+            "color": "#b58b2a",
+            "font_size": 24,
+            "flags": {}
+        },
+        {
+            "id": 5,
+            "title": "Final Image",
+            "bounding": [
+                976.89013671875,
+                -768.2709350585938,
+                703.97802734375,
+                1120.1124267578125
+            ],
+            "color": "#b58b2a",
+            "font_size": 24,
+            "flags": {}
+        }
+    ],
+    "config": {},
+    "extra": {
+        "ds": {
+            "scale": 0.7326371799522342,
+            "offset": [
+                1506.8139426301254,
+                1361.5094812848251
+            ]
+        },
+        "frontendVersion": "1.26.13",
+        "ue_links": [],
+        "links_added_by_ue": [],
+        "VHS_latentpreview": false,
+        "VHS_latentpreviewrate": 0,
+        "VHS_MetadataImage": true,
+        "VHS_KeepIntermediate": true,
+        "workflowRendererVersion": "LG"
+    },
+    "version": 0.4
+}
